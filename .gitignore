@@ -99,5 +99,4 @@ hs_err_pid*
 .idea/discord.xml
 .idea/google-java-format.xml
 .idea/misc.xml
-readme.md
-src/
+src/META-INF
